@@ -1,5 +1,5 @@
 package mathLib;
-
+//lib
   public class MathLibrary {
 
     public static double add(double a, double b) {
